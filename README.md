@@ -1,3 +1,2 @@
 # cookie-stand
-in this lab i use samer code to solve it.
-i just try to understand the code
+    In this lab I use samer code(DEMO) to solve it.
